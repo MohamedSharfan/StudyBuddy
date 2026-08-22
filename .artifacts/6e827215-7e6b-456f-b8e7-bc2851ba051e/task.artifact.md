@@ -1,0 +1,3 @@
+- [ ] Update `pubspec.yaml` to use Isar Community packages
+- [ ] Run `flutter pub get`
+- [ ] Run `flutter run` and verify the build
